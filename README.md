@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @includejoe
 - 👀 I’m a full stack web developer, front end heavy.
-- 👻 . I am adequate in the prominent skills like React.js, Node.js, ReactNative etc.
+- 👻 I am adequate in the prominent skills like React.js, Node.js, ReactNative etc.
 - 📫 How to reach me kvnqjoe@gmail.com
 
 <!---
