@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @includejoe
-- 👀 I’m a full stack software developer; mobile(android) & web(backend and frontend).
+- 👀 I’m a full stack software developer; mobile(native android & flutter), web(backend and frontend).
 - 📫 How to reach me kvnqjoe@gmail.com
 
 <!---
