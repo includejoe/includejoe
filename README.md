@@ -1,5 +1,3 @@
-🚀 Senior Backend / Full-Stack Engineer | Co-Founder | Crypto & Fintech Builder
-
 I'm a software engineer with 5+ years of hands-on experience building and deploying production-grade systems across crypto, fintech, and mobile payments. I specialize in Python (Django), PostgreSQL, RESTful APIs, and infrastructure automation — but what I truly do is build **platforms that scale and deliver real value.**
 
 💼 I’ve led backend engineering for:
